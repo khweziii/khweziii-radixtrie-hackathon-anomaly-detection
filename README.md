@@ -52,6 +52,6 @@ The process for detecting anomalies using this model is as follows:
    pip install -r requirements.txt
    ```
 ## 🌟 Acknowledgments
-- A huge thank you to the RadixTrie team for organizing this hackathon and providing such an interesting and relevant problem.
+- A huge thank you to the RadixTrie and IndabaX team for organizing this hackathon and providing such an interesting and relevant problem.
    - RadixTrie
    - Deep Learning IndabaX South Africa 2025
